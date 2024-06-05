@@ -15,37 +15,31 @@
 	        width:700px;
 	        font-family: 'Carrois Gothic';
 	        border-radius: 10px
-            
         }
         h1, h2 {
             color: #333;
             padding:2px;
         }
-        h1
-{
-	font-size:22px;
-
-}
-        table {
-           
+        h1 {
+	        font-size:22px;
+        }
+        table {   
             font-size:14px;
 	        width:580px;
-	         margin:0px auto 1em auto;
-	         border-radius: 10px;
+	        margin:0px auto 1em auto;
+	        border-radius: 10px;
         }
-        td
-{
-	border: 1px solid #000;
-	padding: 2px;
-	margin: 3px;
-}
-.table1{
-    border: 3px solid #000;
-}
-.table2{
-    border: 3px solid #000;
- 
-}
+        td {
+	        border: 1px solid #000;
+	        padding: 2px;
+	        margin: 3px;
+        }
+        .table1 {
+            border: 3px solid #000;
+        }
+        .table2 {
+            border: 3px solid #000;
+        }
         table, th {
             border: 1px solid #000;
         }
@@ -56,7 +50,6 @@
         th {
             background-color: white;
         }
-         
         .error {
             color: red;
         }
